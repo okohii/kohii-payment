@@ -1,6 +1,7 @@
 package com.kohii.payment.user.domain.entities;
 
-import com.kohii.payment.user.application.exceptions.InvalidAttributeException;
+import com.kohii.payment.modules.user.application.exceptions.InvalidAttributeException;
+import com.kohii.payment.modules.user.domain.entities.User;
 import org.junit.jupiter.api.Test;
 
 import java.util.UUID;

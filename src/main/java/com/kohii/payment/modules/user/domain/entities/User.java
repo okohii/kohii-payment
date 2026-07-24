@@ -1,6 +1,6 @@
-package com.kohii.payment.user.domain.entities;
+package com.kohii.payment.modules.user.domain.entities;
 
-import com.kohii.payment.user.application.exceptions.InvalidAttributeException;
+import com.kohii.payment.modules.user.application.exceptions.InvalidAttributeException;
 
 import java.util.UUID;
 import java.util.regex.Matcher;

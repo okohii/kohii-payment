@@ -1,4 +1,4 @@
-package com.kohii.payment.user.application.exceptions;
+package com.kohii.payment.modules.user.application.exceptions;
 
 public class InvalidAttributeException extends RuntimeException {
     public InvalidAttributeException(String message) {
